@@ -7,7 +7,6 @@ ML & Bioinfo Scientist
 I am Staff Scientist at Computational Biology Branch (CBB) of the National Center for Biotechnology and Information (NCBI/NLM) with >16 years of experience in ML and >10 in Bioinformatics.
 
 * 🌍  I'm based in Washington, DC.
-* 🖥️  See my portfolio at [webpage](http://okurman.github.io/)
 * 🤝  I'm open to collaborating on LLMs and applications in disease genetics and genomics
 
 ### Skills
